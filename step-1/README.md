@@ -10,4 +10,4 @@
 - Clearly define the goals and objectives of the project. Outline what you aim to achieve and establish the boundaries of the project to prevent scope creep. This includes specifying the problem to be solved and the expected outcomes.
 
 ## Requirements Analysis:
-- Description: Gather and analyze the requirements for both the software and AI components of the project. This involves understanding user needs, system constraints, and technical requirements to ensure all aspects of the project are addressed.
+- Gather and analyze the requirements for both the software and AI components of the project. This involves understanding user needs, system constraints, and technical requirements to ensure all aspects of the project are addressed.
