@@ -9,53 +9,28 @@ Graduation Project Steps for computer science students.
 <a href="/README.md"><img align="right" width="80" src="/logos/step01.png"></img></a>
 <br>
 
-## [`Step 1`](/README.md)
-
-### Select a Topic:
-### Literature Review:
-### Define Objectives and Scope:
-### Requirements Analysis:
+## [`Step 1`](/README.md): Project Initialization
 
 <a href="/README.md"><img align="right" width="80" src="/logos/step04.png"></img></a>
 <a href="/README.md"><img align="right" width="80" src="/logos/step03.png"></img></a>
 <br>
 
-## [`Step 2`](/README.md)
-
-### System Design:
-### Design Methodology:
-### Project Planning:
-### Prototyping:
+## [`Step 2`](/README.md): Design and Planning
 
 <a href="/README.md"><img align="right" width="80" src="/logos/step06.png"></img></a>
 <a href="/README.md"><img align="right" width="80" src="/logos/step05.png"></img></a>
 <br>
 
-## [`Step 3`](/README.md)
-
-### Secure Resources:
-### Development and Testing:
-### Quality Assurance:
-### Deployment:
+## [`Step 3`](/README.md): Development and Execution
 
 <a href="/README.md"><img align="right" width="80" src="/logos/step08.png"></img></a>
 <a href="/README.md"><img align="right" width="80" src="/logos/step07.png"></img></a>
 <br>
 
-## [`Step 4`](/README.md)
-
-### Result Analysis:
-### Reports and Documentation:
-### Project Presentation:
-### Maintenance and Support:
+## [`Step 4`](/README.md): Evaluation and Conclusion
 
 <a href="/README.md"><img align="right" width="80" src="/logos/step10.png"></img></a>
 <a href="/README.md"><img align="right" width="80" src="/logos/step09.png"></img></a>
 <br>
 
-## [`Step 5`](/README.md)
-
-### User Training:
-### User Acceptance Testing:
-### Reflect and Revise:
-### Final Submission:
+## [`Step 5`](/README.md): User Interaction and Finalization
