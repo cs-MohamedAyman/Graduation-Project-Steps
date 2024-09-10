@@ -1,4 +1,9 @@
+<a href="/step-5/README.md"><img align="right" width="160" src="/logos/step10.png"></img></a>
+<a href="/step-5/README.md"><img align="right" width="160" src="/logos/step09.png"></img></a>
+
 # User Interaction and Finalization:
+
+<br><br><br><br>
 
 ## User Training:
 Develop and deliver training materials and sessions for users to help them understand and effectively use the system. This includes creating user guides, tutorials, and providing hands-on training if necessary.
