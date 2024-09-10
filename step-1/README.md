@@ -1,4 +1,9 @@
+<a href="/step-1/README.md"><img align="right" width="160" src="/logos/step02.png"></img></a>
+<a href="/step-1/README.md"><img align="right" width="160" src="/logos/step01.png"></img></a>
+
 # Project Initialization:
+
+<br><br><br><br>
 
 ## Select a Topic:
 - Choose a relevant and feasible topic that combines software engineering and artificial intelligence. The topic should address a specific problem or opportunity and align with your interests and the project’s objectives.
