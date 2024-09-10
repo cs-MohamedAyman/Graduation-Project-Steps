@@ -1,4 +1,9 @@
+<a href="/step-4/README.md"><img align="right" width="160" src="/logos/step08.png"></img></a>
+<a href="/step-4/README.md"><img align="right" width="160" src="/logos/step07.png"></img></a>
+
 # Evaluation and Conclusion:
+
+<br><br><br><br>
 
 ## Result Analysis:
 Analyze the results of the project, including the performance of the software and AI components. Assess whether the project objectives have been met and evaluate the effectiveness of the solution.
