@@ -1,4 +1,9 @@
+<a href="/step-3/README.md"><img align="right" width="160" src="/logos/step06.png"></img></a>
+<a href="/step-3/README.md"><img align="right" width="160" src="/logos/step05.png"></img></a>
+
 # Development and Execution:
+
+<br><br><br><br>
 
 ## Secure Resources:
 Identify and secure the resources needed for the project, including hardware, software, data, and any other materials or tools required for development and testing.
