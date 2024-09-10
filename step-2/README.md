@@ -1,4 +1,9 @@
+<a href="/step-2/README.md"><img align="right" width="160" src="/logos/step04.png"></img></a>
+<a href="/step-2/README.md"><img align="right" width="160" src="/logos/step03.png"></img></a>
+
 # Design and Planning:
+
+<br><br><br><br>
 
 ## System Design:
 - Create a detailed design for the overall system architecture, including software components and AI models. Define how these components will interact and integrate to achieve the project’s objectives.
